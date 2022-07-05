@@ -1,6 +1,6 @@
 {
   "name": "@jslibrary/event-dispatcher",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Class to add, remove event listeners and dispatch custom events.",
   "main": "dist",
   "scripts": {
