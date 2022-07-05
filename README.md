@@ -1,6 +1,6 @@
 # event-dispatcher
 
-EventDispatcher is a class that enables **addEventListener**,  **removeEventListener** and **dispatchEvent** methods in your class when extended.
+EventDispatcher is a class that enables **addEventListener**,  **removeEventListener** and **dispatchEvent** methods in your class by extendeding it.
 
 ## Example
 ````javascript
